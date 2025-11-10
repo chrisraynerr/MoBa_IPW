@@ -1,4 +1,4 @@
-Scripts to replicate analyses described here: https://osf.io/preprints/osf/ymk37_v1  
+Scripts for analyses described here: https://osf.io/preprints/osf/ymk37_v1  
   
 Pheno_Functions: Custom R functions used in this project  
   
